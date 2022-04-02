@@ -1,0 +1,29 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">   Matrix </h1> <p align=\"center\">    <img src=\"https://raw.githubusercontent.com/LimeIncOfficial/Matrix/main/200w.gif\" height=\"230\"> </p>",
+  "main": "matrix.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimeIncOfficial/Matrix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimeIncOfficial/Matrix/issues"
+  },
+  "homepage": "https://github.com/LimeIncOfficial/Matrix#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.2",
+    "nanospinner": "^1.0.0"
+  }
+}
